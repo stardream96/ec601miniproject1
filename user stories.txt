@@ -2,4 +2,4 @@ user stories
 As a fitness instructor, I would like to know users who are interested in fitness and how long they have been interested & enrolled.
 As a nutritionist, I would like to know who have interest in diet / food therapy.
 
-As a general twitter user, I would like to know who have the similar interests with me.
+As a general twitter user, I would like to know who have the similar interests with me. 
