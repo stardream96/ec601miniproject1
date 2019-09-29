@@ -19,3 +19,6 @@ As fitness instructors or enterprises, we want to know who are the potential cli
 As food suppliers(especially green and organic food providers), we want to know people who prefer a healthier food choise, so it is easier to attract more customers by putting ads on them.
 
 As nutritionists and health-field bloggers, we want to know who is interested in healthy lifestyles, so that we give our suggestions and methodologies on twitter, then use to 'recommand' function to post our content to these users.
+
+## MVP
+As it is shown above, our minimum viable product is to analyze the
