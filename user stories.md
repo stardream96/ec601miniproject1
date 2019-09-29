@@ -21,4 +21,8 @@ As food suppliers(especially green and organic food providers), we want to know 
 As nutritionists and health-field bloggers, we want to know who is interested in healthy lifestyles, so that we give our suggestions and methodologies on twitter, then use to 'recommand' function to post our content to these users.
 
 ## MVP
-As it is shown above, our minimum viable product is to analyze the
+As it is shown above, our minimum viable product is to analyze whether a twitter user we clawed is a potential customer who like working out, and care about nutrition. Through twitter content classification, we could find the set which the user is classified into. Then the ads company can post on more ads on the surface of these specified clients.
+
+## system design
+this part is shown in the png of system design and the architectre.pdf
+
