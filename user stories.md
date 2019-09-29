@@ -1,6 +1,8 @@
 # User Story
 name: Song Geng, Chen Linfeng
+
 email: songgeng@bu.edu, lchen111@bu.edu
+
 Group Number: 4
 
 ## Purpose
