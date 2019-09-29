@@ -1,0 +1,7 @@
+source env/bin/activate
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/ece-student/Documents/ec601/mini_project1/mini_project.json"
+
+pip install --upgrade google-cloud-language
+
+python mini_project1.py 
